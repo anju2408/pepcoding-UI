@@ -1,6 +1,7 @@
 .section{
     background-color: #f2f6ff;
     margin-top: 60px;
+    position: relative;
 }
 .form-section{
     background: url(../../public/images/gjp-bg.svg);
