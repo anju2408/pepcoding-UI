@@ -1,0 +1,73 @@
+.asideRight {
+    position: absolute;
+    right: 130px;
+    top: 116px;
+    padding: 0 0.75rem;
+    margin: 0.5rem 0 1rem 0;
+    width: 33.33333%;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    box-shadow: 0 0 29px 0 rgba(57, 57, 58, 0.12);
+}
+
+.form {
+    padding: 10%;
+}
+
+.form-header h1 {
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.form-header h1 span, .red-text {
+    color: #f8423d;
+}
+.form-body .input-field label{
+    font-size: 1rem;
+    font-weight: 500;
+}
+.form-body .input-field input{
+    margin: 2% 0%;
+    border-radius: 17px;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid #e5f2fc !important;
+    background: #e5f2fc;
+    color: #484848;
+    outline: none;
+    height: 2.1rem;
+    width: 100%;
+    box-sizing: content-box;
+    transition: box-shadow .3s, border .3s;
+    font-family: "IBM Plex Sans";
+}
+.input-mob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-small{
+    width: 20% !important;
+}
+.input-big{
+    width: 80% !important;
+}
+.divButtonBook{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnBook{
+    box-shadow: 0px 17px 36px 0px #a0afd1;
+    background: linear-gradient(to bottom, #4157bc 5%, #093b80 100%);
+    color: #ffffff;
+    height: 2.75rem;
+    border-radius: 32px;
+    line-height: 2.75rem;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
