@@ -1,0 +1,11 @@
+.section{
+    background-color: #f2f6ff;
+    margin-top: 60px;
+}
+.form-section{
+    background: url(../../public/images/gjp-bg.svg);
+    height: 90vh;
+    width: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
