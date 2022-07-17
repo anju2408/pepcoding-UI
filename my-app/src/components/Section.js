@@ -6,6 +6,8 @@ export default function Section(){
         <>
         <div className="section">
             <div className="form-section"></div>
+            <div className="img-right"></div>
+            <div className="img-left"></div>
         </div>
         </>
     )

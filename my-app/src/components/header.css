@@ -1,22 +1,19 @@
 .header {
-    width: 92%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 62px;
     height: 60px;
     position: fixed;
     z-index: 1000;
     top: 0;
+    background: white;
+    padding: 0 60px;
 }
 
 .brand-logo .logo {
     height: 40px;
     width: 46px;
-}
-
-.divRight {
-    margin-right: 53px;
 }
 
 .divRight ul li {
@@ -45,5 +42,5 @@
     color: #474747;
     font-weight: bold;
     top: 6px;
-    left: 1099px;;
+    left: 1140px;;
 }

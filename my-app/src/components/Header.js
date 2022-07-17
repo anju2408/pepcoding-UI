@@ -24,6 +24,9 @@ export default function Header(){
                     <li>
                         <a href='#'>Resources</a>
                     </li>
+                    <li>
+                        <a href='#'>Login</a>
+                    </li>
                 </ul>
             </div>
         </div>

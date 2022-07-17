@@ -10,3 +10,26 @@
     object-fit: cover;
     background-repeat: no-repeat;
 }
+.img-right{
+    background: url(../../public/images/gjp-pattern1.svg);
+    width: 12vw;
+    height: 156px !important;
+    top: 80%;
+    left: 85%;
+    transform: rotate(86deg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+}
+.img-left{
+    background: url(../../public/images/gjp-pattern2.svg);
+    width: 15vw;
+    height: 205px;
+    top: 83%;
+    right: 90%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+}

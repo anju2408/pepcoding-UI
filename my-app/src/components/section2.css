@@ -1,0 +1,61 @@
+.section-second {
+    padding-top: 5rem;
+    text-align: center;
+    background-color: #f2f6ff;
+}
+
+.section-second .heading {
+    line-height: 1.7;
+    font-weight: 600;
+    font-size: 2.8rem;
+    color: #6d7a81;
+}
+
+.text-blue {
+    color: #093b80;
+}
+
+.container-desc {
+    display: flex;
+    justify-content: space-evenly;
+    margin: -30px 130px;
+}
+
+.card {
+    width: 27%;
+    margin-bottom: 7%;
+    padding: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #f2f6ff;
+    box-shadow: 8px 8px 9px #dfe2eb, -8px -8px 9px #ffffff;
+    border-radius: 10px;
+}
+
+.card-head {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.div-image img {
+    height: 70px;
+    width: 70px;
+}
+
+.div-image {
+    margin-right: 40px;
+
+}
+
+.card-head h2 {
+    color: #589bd1;
+    text-align: start;
+}
+
+ul li {
+    line-height: 2.2rem;
+    color: #5a5a58;
+    text-align: start;
+}
